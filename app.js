@@ -10,7 +10,7 @@
 $(function () {
 
   /* ── CONFIG ───────────────────────────────── */
-  const API_KEY   = 'YOUR_TMDB_API_KEY_HERE';   // ← replace this
+  const API_KEY   = 'ec49f2d5bd16d2cf6f6a55185e08503c';   // ← replace this
   const BASE_URL  = 'https://api.themoviedb.org/3';
   const IMG_BASE  = 'https://image.tmdb.org/t/p/';
   const PER_PAGE  = 10;   // items per page-view
